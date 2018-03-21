@@ -1,0 +1,29 @@
+Array
+(
+    [status] => OK
+    [result] => Array
+        (
+            [offset] => 0
+            [limit] => 10
+            [total] => 2
+            [webcams] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1510948364
+                            [status] => active
+                            [title] => Miami: Rosenstiel School
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 1511009616
+                            [status] => active
+                            [title] => Miami: Phillip and Patricia Frost Museum of Science
+                        )
+
+                )
+
+        )
+
+)
